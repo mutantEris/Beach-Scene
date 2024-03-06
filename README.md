@@ -25,8 +25,8 @@ He absolutely does not know how to swim.
 
 But by golly can that boy kick a sphere.
 
-<img src="https://github.com/mutantEris/Beach-Scene/assets/62120715/369c4684-c968-487e-a695-36352ef0d851" width="500" height="250"/>
-<img src="https://github.com/mutantEris/Beach-Scene/assets/62120715/5b98894d-1ce5-4ccb-b3f1-654921bf2e42" width="500" height="250"/>
+<img src="https://github.com/mutantEris/Beach-Scene/assets/62120715/369c4684-c968-487e-a695-36352ef0d851" height="250"/>
+<img src="https://github.com/mutantEris/Beach-Scene/assets/62120715/5b98894d-1ce5-4ccb-b3f1-654921bf2e42" height="250"/>
 
 Best sphere-kicker this side of the beach. Way to go Chaunce.
 
