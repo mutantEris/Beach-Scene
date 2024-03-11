@@ -11,8 +11,8 @@ Here we have Chauncey, standing under his stupid little umbrella.
 ![BeachPH8](https://github.com/mutantEris/Beach-Scene/assets/62120715/b97dcfdd-a75d-408f-9970-b1426b9f04f3)
 
 You will be seeing plenty of Chauncey.
- 
-https://github.com/mutantEris/Beach-Scene/assets/62120715/413bdbe2-8b12-4562-b891-11e78ca0ae6f
+
+https://github.com/mutantEris/Beach-Scene/assets/62120715/1729a6a8-fb8e-4c75-80c7-00f79a451205
 
 He absolutely does not know how to swim.
 
