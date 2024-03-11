@@ -1,6 +1,6 @@
 # Beach Scene
 
- ![BeachPH1](https://github.com/mutantEris/Beach-Scene/assets/62120715/c2dabf52-f2c1-4df1-80fb-82c5613f4c92)
+![BeachPH1](https://github.com/mutantEris/Beach-Scene/assets/62120715/c2dabf52-f2c1-4df1-80fb-82c5613f4c92)
 
 Behold, if you will, (and you WILL) my cute little beach.
 This beach is just a little slice of something I have created for a much larger and wetter project I am in the middle of developing.
@@ -8,15 +8,10 @@ This is, more importantly, quite possibly the most juicylicious beach you have e
 
 Here we have Chauncey, standing under his stupid little umbrella.
 
- ![BeachPH8](https://github.com/mutantEris/Beach-Scene/assets/62120715/b97dcfdd-a75d-408f-9970-b1426b9f04f3)
+![BeachPH8](https://github.com/mutantEris/Beach-Scene/assets/62120715/b97dcfdd-a75d-408f-9970-b1426b9f04f3)
 
- You will be seeing plenty of Chauncey.
-
+You will be seeing plenty of Chauncey.
  
-
- 
-
-
 https://github.com/mutantEris/Beach-Scene/assets/62120715/413bdbe2-8b12-4562-b891-11e78ca0ae6f
 
 He absolutely does not know how to swim.
